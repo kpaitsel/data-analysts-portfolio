@@ -1,4 +1,4 @@
-# data-analysts-portfolio
+# Data-Analysis-Portfolio
 Starting with Data Analysis before machine learning
 After a few months of research, I have decided that instead of jumping straight into machine learning engineer, I am going to train/research/study/certification etc...etc...etc...for a data analysis position.
 I am going to work in three specific areas: PowerBi, SQL (MySQL), and Tableau. 
