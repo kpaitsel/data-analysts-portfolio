@@ -1,0 +1,88 @@
+Database Management Systems
+
+Course Overview:
+This course provides a comprehensive introduction to Database Management Systems (DBMS) and covers the fundamentals of database systems, including data modeling, normalization, indexing, and transaction management. You will gain a solid understanding of how DBMSs work, learn essential concepts and techniques for efficient data management, and develop skills to design and optimize databases.
+
+Course Duration:
+The course is designed to be completed in approximately 10 weeks, assuming a pace of 4-6 hours of study per week.
+
+Course Objectives:
+
+Understand the role and importance of Database Management Systems in modern applications.
+Learn data modeling techniques and develop skills to design efficient and effective databases.
+Gain proficiency in normalizing databases to eliminate redundancy and improve data integrity.
+Understand indexing techniques and their impact on query performance.
+Learn transaction management concepts and ensure data consistency and reliability.
+Course Outline:
+
+Week 1: Introduction to Database Management Systems
+
+Overview of Database Management Systems and their importance in modern applications.
+Understanding the components and architecture of DBMSs.
+Exploring different types of DBMSs: relational, hierarchical, network, and NoSQL.
+Introduction to Structured Query Language (SQL) as the standard language for interacting with DBMSs.
+Week 2: Relational Data Model and Data Modeling
+
+Understanding the relational data model and its components: tables, rows, and columns.
+Exploring the entity-relationship (ER) model for data modeling.
+Techniques for translating conceptual models into relational database schemas.
+Identifying entities, relationships, attributes, and keys.
+Week 3: Database Design and Normalization
+
+Understanding the principles of database design and normalization.
+Exploring different normal forms (1NF, 2NF, 3NF) and their significance.
+Applying normalization techniques to eliminate data redundancy and improve database efficiency.
+Normalizing sample datasets and evaluating the results.
+Week 4: Indexing and Query Optimization
+
+Understanding indexing techniques and their impact on query performance.
+Exploring different types of indexes: primary, secondary, clustered, and non-clustered.
+Analyzing query execution plans and optimizing queries using indexes.
+Best practices for index selection and optimization.
+Week 5: Transaction Management and Concurrency Control
+
+Introduction to database transactions and their properties (ACID).
+Understanding the importance of concurrency control in multi-user environments.
+Exploring transaction isolation levels and their impact on data consistency.
+Techniques for managing concurrent access and resolving conflicts.
+Week 6: Recovery and Backup Strategies
+
+Understanding database recovery techniques and ensuring data durability.
+Exploring backup and restore strategies to protect against data loss.
+Overview of transaction logging, checkpoints, and rollbacks.
+Best practices for database backups and disaster recovery planning.
+Week 7: Advanced Topics in DBMS
+
+Exploring advanced concepts such as data warehousing, data mining, and OLAP.
+Introduction to NoSQL databases and their role in modern applications.
+Understanding the concept of distributed databases and replication.
+Overview of emerging trends in DBMS, such as cloud databases and big data technologies.
+Week 8: Database Security and Privacy
+
+Understanding the importance of database security and privacy.
+Exploring authentication, authorization, and access control mechanisms.
+Overview of encryption techniques and data protection strategies.
+Best practices for securing databases against potential threats.
+Week 9: Database Performance Tuning
+
+Identifying performance bottlenecks and optimizing database performance.
+Analyzing query execution plans and identifying performance-intensive queries.
+Techniques for query optimization, including query rewriting and index tuning.
+Monitoring and fine-tuning database performance.
+Week 10: Course Project and Final Assessment
+
+Applying the knowledge gained throughout the course to a real-world project.
+Designing and optimizing a database based on project requirements.
+Implementing indexing strategies and transaction management techniques.
+Final assessment to test your understanding of the course material.
+Course Resources:
+
+Textbook: "Database System Concepts" by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan.
+Online resources and tutorials on database management systems and SQL.
+DBMS software (e.g., MySQL, Oracle, PostgreSQL) for hands-on practice.
+Sample datasets and exercises to reinforce learning.
+By the end of this course, you will have a strong foundation in Database Management Systems, enabling you to design, manage, and optimize databases effectively.
+
+
+
+
