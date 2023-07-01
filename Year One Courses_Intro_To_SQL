@@ -1,0 +1,72 @@
+Introduction to SQL
+
+Course Overview:
+This course serves as an introduction to SQL (Structured Query Language) and covers the fundamental concepts of working with databases. You will learn the basics of data querying, manipulation, and database design using SQL. By the end of the course, you will have a solid foundation in SQL and be able to perform common tasks such as retrieving data, modifying data, and creating simple databases.
+
+Course Duration:
+The course is designed to be completed in approximately 8 weeks, assuming a pace of 4-6 hours of study per week.
+
+Course Objectives:
+
+Understand the purpose and importance of SQL in managing and manipulating data.
+Learn how to write basic SQL queries to retrieve data from a database.
+Gain proficiency in using SQL to filter, sort, and manipulate data.
+Understand the concept of database normalization and learn how to design simple databases.
+Acquire practical skills in creating tables, inserting data, updating records, and deleting data using SQL.
+
+Course Outline:
+
+Week 1: Introduction to Databases and SQL
+Introduction to databases and their importance in managing data.
+Overview of SQL and its role in interacting with databases.
+Setting up the necessary software and tools (e.g., MySQL, PostgreSQL).
+Writing basic SQL queries: SELECT statement, FROM clause, WHERE clause.
+
+Week 2: Retrieving Data with SQL
+Understanding the SELECT statement in depth.
+Using operators and functions in SQL queries.
+Sorting and limiting query results using ORDER BY and LIMIT.
+Performing calculations and aggregations with SQL.
+
+Week 3: Filtering and Modifying Data
+Expanding query capabilities with logical operators (AND, OR, NOT).
+Using comparison operators and wildcards for flexible data retrieval.
+Modifying data in a database: INSERT, UPDATE, and DELETE statements.
+Understanding the impact of modifying statements on the database.
+
+Week 4: Working with Multiple Tables
+Introduction to table joins and their importance in retrieving data from multiple tables.
+Understanding different types of joins: INNER JOIN, LEFT JOIN, RIGHT JOIN.
+Using aliases to simplify queries involving multiple tables.
+Performing calculations and aggregations with joined tables.
+
+Week 5: Database Design and Normalization
+Understanding the principles of database design and normalization.
+Learning about different normal forms (1NF, 2NF, 3NF).
+Applying normalization techniques to eliminate data redundancy and improve database efficiency.
+Designing simple databases using SQL.
+
+Week 6: Advanced Querying Techniques
+Working with subqueries: understanding their purpose and syntax.
+Using subqueries for advanced data retrieval and filtering.
+Utilizing built-in functions and advanced SQL features.
+Enhancing query performance with indexes.
+
+Week 7: Views, Indexes, and Transactions
+Creating and managing views to simplify complex queries.
+Understanding indexes and their impact on query performance.
+Introduction to database transactions and their importance for data integrity.
+Using transactions to ensure atomicity and consistency.
+
+Week 8: Course Project and Final Assessment
+Applying the knowledge gained throughout the course to a real-world project.
+Designing and implementing a simple database system.
+Writing queries to retrieve, modify, and analyze data based on project requirements.
+Final assessment to test your understanding of the course material.
+
+Course Resources:
+Online SQL tutorials and documentation (e.g., W3Schools SQL tutorial, PostgreSQL documentation).
+SQL database management systems (e.g., MySQL, PostgreSQL) for hands-on practice.
+Sample datasets and exercises to reinforce learning.
+Optional textbook: "SQL in 10 Minutes a Day" by Ben Forta.
+This course provides a solid foundation in SQL, enabling you to confidently work with databases, perform data analysis, and pursue more advanced SQL topics. Enjoy your learning journey!
